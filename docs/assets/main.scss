@@ -1,0 +1,23 @@
+---
+---
+
+$text-color:       #111 !default;
+$background-color: #fdfdfd !default;
+$brand-color:      #2a7ae2 !default;
+
+$grey-color:       #828282 !default;
+
+@import "minima";
+
+// h1, h2, h3, h4, h5, h6
+// {
+//   color: #e47e00;
+// }
+
+// .site-title {
+//     color: #e47e00;
+// }
+
+.post-link {
+    @include relative-font-size(1.25);
+  }

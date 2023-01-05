@@ -19,18 +19,28 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Elliot G Mitchell
-email: elliotgmitchell@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+email: emitchell3 [at] geisinger.edu
+description: >- # this means to ignore newlines
   Elliot G Mitchell's updates and info. 
 domain: elliotgmitchell.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://elliotgmitchell.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 # baseurl: /  # the subpath of your site, e.g. /blog
 twitter_username: elliotgmitchell
 github_username:  elliotgmitchell
+linkedin_username: elliotgmitchell
+google_scholar_id: 1lJldHQAAAAJ
 
 # Build settings
 theme: minima
 # remote_theme: jeromelachaud/freelancer-theme
+header_pages:
+  - index.md
+  - cv.md
+
+minima:
+  date_format: "%b %Y"
+
+show_excerpts: true
 
 plugins:
   - jekyll-feed
