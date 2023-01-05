@@ -35,6 +35,7 @@ theme: minima
 # remote_theme: jeromelachaud/freelancer-theme
 header_pages:
   - index.md
+  - dissertation.md
   - cv.md
 
 minima:
