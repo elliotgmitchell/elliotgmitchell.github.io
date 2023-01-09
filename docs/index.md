@@ -27,3 +27,4 @@ title: Home
 
 
 ## Recent Updates
+<h2 id="news"></h2>

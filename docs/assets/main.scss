@@ -23,6 +23,11 @@
     @include relative-font-size(1.25);
   }
 
+/* Add smooth scrolling behavior for "Updates" anchor link */
+html {
+  scroll-behavior: smooth;
+}
+
 /* For the Home layout, create two equal columns that float next to each other */
 /* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_two_columns_responsive */
 
