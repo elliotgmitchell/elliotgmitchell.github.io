@@ -6,4 +6,4 @@ permalink: /cv/
 
 # [Download Elliot's CV](</assets/Elliot G Mitchell CV.pdf>)
 
-_Last updated January 2023_
+_Last updated March 2023_
