@@ -19,7 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Elliot G Mitchell
-email: emitchell3 [at] geisinger.edu
+# email: emitchell3 [at] geisinger.edu
+email_name: emitchell3
+email_domain: geisinger.edu
 description: >- # this means to ignore newlines
   Elliot G Mitchell's updates and info. 
 domain: elliotgmitchell.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
