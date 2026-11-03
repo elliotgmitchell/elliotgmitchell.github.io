@@ -13,7 +13,7 @@ title: Home
 </div>
 <div class="home_column2">
 <!-- Main content goes here -->
-<p>I'm currently a Data Science Team Lead at Geisinger, as a part of the Geisinger Informatics AI/ML team, working remotely from New York City. 
+<p>I'm currently a Lead Product Manager for AI and Data Science at Geisinger, working remotely from New York City. 
 </p>
 
 <p>I graduated from Columbia University in 2021 with a PhD in Biomedical Informatics, working with Dr. Lena Mamykina, where my dissertation research was at the intersection of data science and human computer interaction in health. 
